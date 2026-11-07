@@ -6,7 +6,7 @@ configuration:
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: zh-CN
   baseUrl: MimikyuEmpire.github.io/monmish
   ignorePatterns:
     - private
@@ -116,9 +116,9 @@ plugins:
       theme: default
       mode: both
   - source: "@quartz-community/remove-draft"
-    enabled: true
-  - source: "@quartz-community/explicit-publish"
     enabled: false
+  - source: "@quartz-community/explicit-publish"
+    enabled: true
   - source: "@quartz-community/unlisted-pages"
     enabled: true
     options: {}

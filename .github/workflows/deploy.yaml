@@ -21,7 +21,7 @@ jobs:
       - name: 拉取代码
         uses: actions/checkout@v6
         with:
-          fetch-depth: 1
+          fetch-depth: 3
 
       - name: 安装 Node.js
         uses: actions/setup-node@v6

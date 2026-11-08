@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: zh-CN
-  baseUrl: MimikyuEmpire.github.io/monmish
+  baseUrl: mimikyuempire.github.io/monmish
   ignorePatterns:
     - private
     - templates

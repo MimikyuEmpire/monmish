@@ -1,17 +1,20 @@
-# Quartz v5
+# Monmish Book——梦谜语的语法、语汇和语料库
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+## 1 何为梦谜语？
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+> 创世之初，人类与宝可梦共用一种语言。  
+> 后来它分成了两种：一种太简单，说不清；一种太复杂，不敢说。  
+> 于是，一只躲在布偶里的谜拟丘，创造了第三种。  
+> 它很简单，很规律，也很精确——  
+> 简单到任何宝可梦都能学会，精确到能说出「我害怕」。  
+> 这就是「**梦谜语**」。
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+梦谜语是基于宝可梦世界观创造的人造语言，设定为谜拟丘创造的语言，最终成为宝可梦与人类共同语言
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 2 这是什么项目？
 
-## Sponsors
+这是利用 [Quartz](https://github.com/jackyzha0/quartz) 构建的、介绍梦谜语语法、语汇、含有部分梦谜语语料的网站项目
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## 3 项目使用什么协议？
+
+手册内容采用 CC BY-NC-SA 4.0 协议，Quartz 采用 MIT 协议

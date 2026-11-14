@@ -231,7 +231,7 @@ plugins:
     options:
       links:
         GitHub: https://github.com/MimikyuEmpire/monmish
-        Bilibili: https://space.bilibili.com/1551482785?spm_id_from=333.1007.0.0
+        bilibili: https://space.bilibili.com/1551482785?spm_id_from=333.1007.0.0
     layout:
       position: footer
       priority: 50
